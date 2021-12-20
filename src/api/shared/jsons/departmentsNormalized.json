@@ -1,0 +1,447 @@
+[
+    {
+        "targetValue": "Commercial",
+        "originValues": [
+            {
+                "value": "Account Developer",
+                "action": "substitute"
+            },
+            {
+                "value": "Account Manager EMEA",
+                "action": "substitute"
+            },
+            {
+                "value": "Account Manager LATAM",
+                "action": "substitute"
+            },
+            {
+                "value": "ATENDIMENTO E RELACIONAMENTO",
+                "action": "substitute"
+            },
+            {
+                "value": "Business Support Global Key Accounts",
+                "action": "substitute"
+            },
+            {
+                "value": "Client Services",
+                "action": "substitute"
+            },
+            {
+                "value": "Comercial",
+                "action": "substitute"
+            },
+            {
+                "value": "Comercial representative",
+                "action": "substitute"
+            },
+            {
+                "value": "Commercial",
+                "action": "substitute"
+            },
+            {
+                "value": "cuentas",
+                "action": "substitute"
+            },
+            {
+                "value": "Cuentas ",
+                "action": "substitute"
+            },
+            {
+                "value": "CUSTOMER SERVICE",
+                "action": "substitute"
+            },
+            {
+                "value": "Customer Service and Logistics",
+                "action": "substitute"
+            },
+            {
+                "value": "Global Key Account Director",
+                "action": "substitute"
+            },
+            {
+                "value": "Global Key Accounts Director",
+                "action": "substitute"
+            },
+            {
+                "value": "Head of Global Accounts",
+                "action": "substitute"
+            },
+            {
+                "value": "Head of UK Confections and Global Key Account Manager",
+                "action": "substitute"
+            },
+            {
+                "value": "Internal Sales Management Food",
+                "action": "substitute"
+            },
+            {
+                "value": "International Key Account Manager",
+                "action": "substitute"
+            },
+            {
+                "value": "Key Account Manager",
+                "action": "substitute"
+            },
+            {
+                "value": "Key Account Manager EMEA",
+                "action": "substitute"
+            },
+            {
+                "value": "Key Account Manager, EMEAI",
+                "action": "substitute"
+            },
+            {
+                "value": "Manager International Sales",
+                "action": "substitute"
+            },
+            {
+                "value": "MEU MSC Customer Service",
+                "action": "substitute"
+            },
+            {
+                "value": "Novos negócios",
+                "action": "substitute"
+            },
+            {
+                "value": "Regional Account Manager",
+                "action": "substitute"
+            },
+            {
+                "value": "Regional Key Account Director",
+                "action": "substitute"
+            },
+            {
+                "value": "Sales",
+                "action": "substitute"
+            },
+            {
+                "value": "Sales -- India",
+                "action": "substitute"
+            },
+            {
+                "value": "Sales Bakery & Cereals Dpt",
+                "action": "substitute"
+            },
+            {
+                "value": "Sales director",
+                "action": "substitute"
+            },
+            {
+                "value": "Sales Director Export & International Key Accounts",
+                "action": "substitute"
+            },
+            {
+                "value": "Vendedor",
+                "action": "substitute"
+            },
+            {
+                "value": "Vendedora",
+                "action": "substitute"
+            }
+        ]
+    },
+    {
+        "targetValue": "Business Development",
+        "originValues": [
+            {
+                "value": "Business Development",
+                "action": "substitute"
+            },
+            {
+                "value": "Business Development Management",
+                "action": "substitute"
+            }
+        ]
+    },
+    {
+        "targetValue": "Procurement",
+        "originValues": [
+            {
+                "value": "Asso Dir Sourcing, Dairy Europe",
+                "action": "substitute"
+            },
+            {
+                "value": "Buyer",
+                "action": "substitute"
+            },
+            {
+                "value": "Compras",
+                "action": "substitute"
+            },
+            {
+                "value": "EEMEA Procurement",
+                "action": "substitute"
+            },
+            {
+                "value": "Global Capability ",
+                "action": "substitute"
+            },
+            {
+                "value": "Global Procurement Marketing ",
+                "action": "substitute"
+            },
+            {
+                "value": "Global Procurement Pack ",
+                "action": "substitute"
+            },
+            {
+                "value": "Global Procurement Raw Materials",
+                "action": "substitute"
+            },
+            {
+                "value": "Indirect & Packaging Director",
+                "action": "substitute"
+            },
+            {
+                "value": "ISC, Supply Chain Management",
+                "action": "substitute"
+            },
+            {
+                "value": "MEU Procurement",
+                "action": "substitute"
+            },
+            {
+                "value": "Procurement CEE Region",
+                "action": "substitute"
+            },
+            {
+                "value": "Production Logistics",
+                "action": "substitute"
+            },
+            {
+                "value": "Supply Chain",
+                "action": "substitute"
+            },
+            {
+                "value": "Supply Quality EEMEA",
+                "action": "substitute"
+            }
+        ]
+    },
+    {
+        "targetValue": "IT",
+        "originValues": [
+            {
+                "value": "Applications & Technical Service",
+                "action": "substitute"
+            },
+            {
+                "value": "IBS",
+                "action": "substitute"
+            },
+            {
+                "value": "IBS CTO ",
+                "action": "substitute"
+            },
+            {
+                "value": "IT",
+                "action": "substitute"
+            }
+        ]
+    },
+    {
+        "targetValue": "Marketing",
+        "originValues": [
+            {
+                "value": "Chief of marketing",
+                "action": "substitute"
+            },
+            {
+                "value": "Junior Designer",
+                "action": "substitute"
+            },
+            {
+                "value": "Marketing and Insights",
+                "action": "substitute"
+            },
+            {
+                "value": "Marketing and Product Development",
+                "action": "substitute"
+            },
+            {
+                "value": "Marketing Biscuits",
+                "action": "substitute"
+            },
+            {
+                "value": "Marketing Resources",
+                "action": "substitute"
+            },
+            {
+                "value": "MKT",
+                "action": "substitute"
+            }
+        ]
+    },
+    {
+        "targetValue": "R&D",
+        "originValues": [
+            {
+                "value": "EEMEA Research Development ",
+                "action": "substitute"
+            },
+            {
+                "value": "ExCo & SVP Innovation & Quality at Olam",
+                "action": "substitute"
+            },
+            {
+                "value": "Glbl Bisc Savory ",
+                "action": "substitute"
+            },
+            {
+                "value": "Global RDQ Quality Food Safety SARA",
+                "action": "substitute"
+            },
+            {
+                "value": "Life science department",
+                "action": "substitute"
+            },
+            {
+                "value": "MEU Chocolate R",
+                "action": "substitute"
+            },
+            {
+                "value": "MEU RD",
+                "action": "substitute"
+            },
+            {
+                "value": "Packaging",
+                "action": "substitute"
+            },
+            {
+                "value": "Packaging Development",
+                "action": "substitute"
+            },
+            {
+                "value": "R&D",
+                "action": "substitute"
+            },
+            {
+                "value": "RDQ",
+                "action": "substitute"
+            },
+            {
+                "value": "RDQ Productivity",
+                "action": "substitute"
+            }
+        ]
+    },
+    {
+        "targetValue": "HR",
+        "originValues": [
+            {
+                "value": "Human Resources",
+                "action": "substitute"
+            }
+        ]
+    },
+    {
+        "targetValue": "Manufacturing",
+        "originValues": [
+            {
+                "value": "Producción",
+                "action": "substitute"
+            }
+        ]
+    },
+    {
+        "targetValue": "Consumer Science & Insights",
+        "originValues": [
+            {
+                "value": "Sensory & Consumer Insights (SCI)",
+                "action": "substitute"
+            }
+        ]
+    },
+    {
+        "targetValue": "Finance",
+        "originValues": [
+            {
+                "value": "Accounting",
+                "action": "substitute"
+            }
+        ]
+    },
+    
+    {
+        "targetValue": "",
+        "originValues": [
+            {
+                "value": "Manager",
+                "action": "move to"
+            },
+            {
+                "value": "manager",
+                "action": "move to"
+
+            },
+            {
+                "value": "Analyst",
+                "action": "move to"
+            },
+            {
+                "value": "CEO",
+                "action": "move to"
+            },
+            {
+                "value": "C-Level (CEO, CMO, CPO, etc)",
+                "action": "move to"
+            },
+            {
+                "value": "CMO",
+                "action": "move to"
+            },
+            {
+                "value": "coordenador",
+                "action": "move to"
+            },
+            {
+                "value": "Coordinator",
+                "action": "move to"
+            },
+            {
+                "value": "Director",
+                "action": "move to"
+            },
+            {
+                "value": "Focal point",
+                "action": "move to"
+            },
+            {
+                "value": "Gerente",
+                "action": "move to"
+            },
+            {
+                "value": "Gerente Administrativo",
+                "action": "move to"
+            },
+            {
+                "value": "President",
+                "action": "move to"
+            },
+            {
+                "value": "Scientist",
+                "action": "move to"
+            },
+            {
+                "value": "Socio",
+                "action": "move to"
+            },
+            {
+                "value": "Sr. Manager",
+                "action": "move to"
+            },
+            {
+                "value": "supervisor",
+                "action": "move to"
+            },
+            {
+                "value": "Team Lead",
+                "action": "move to"
+            },
+            {
+                "value": "Vice-President",
+                "action": "move to"
+            }
+        ]
+    }
+]

@@ -1,0 +1,296 @@
+[
+    {
+        "name": "Alcoholic Drinks",
+        "skills": [
+            "Beer",
+            "Cider/Perry",
+            "RTDs",
+            "Spirits",
+            "Wine",
+            "Other"
+        ],
+        "__v": 0
+    },
+    {
+        "name": "Beauty and Personal Care",
+        "skills": [
+            "Baby and Child-specific Products",
+            "Bath and Shower",
+            "Colour Cosmetics",
+            "Deodorants",
+            "Depilatories",
+            "Fragrances",
+            "Hair Care",
+            "Men's Grooming",
+            "Oral Care",
+            "Skin Care",
+            "Sun Care",
+            "Premium Beauty and Personal Care",
+            "Mass Beauty and Personal Care",
+            "Other"
+        ],
+        "__v": 0
+    },
+    {
+        "name": "Consumer Health",
+        "skills": [
+            "OTC",
+            "Analgesics",
+            "Sleep Aids",
+            "Cough, Cold and Allergy (Hay Fever) Remedies",
+            "Dermatologicals",
+            "Digestive Remedies",
+            "Eye Care",
+            "NRT Smoking Cessation Aids",
+            "Wound Care",
+            "Sports Nutrition",
+            "Weight Management and Wellbeing",
+            "Herbal/Traditional Products",
+            "Paediatric Consumer Health",
+            "Other"
+        ],
+        "__v": 0
+    },
+    {
+        "name": "Fresh Food",
+        "skills": [
+            "Eggs",
+            "Fish and Seafood",
+            "Fruits",
+            "Meat",
+            "Nuts",
+            "Pulses",
+            "Starchy Roots",
+            "Sugar and Sweeteners",
+            "Vegetables",
+            "Other"
+        ],
+        "__v": 0
+    },
+    {
+        "name": "Health and Wellness",
+        "skills": [
+            "Better For You (BFY)",
+            "Better For You Beverages",
+            "Better For You Packaged Food",
+            "Fortified/Functional (FF)",
+            "Fortified/Functional Beverages",
+            "Fortified/Functional Packaged Food",
+            "Free From",
+            "Naturally Healthy (NH)",
+            "Naturally Healthy Beverages",
+            "Naturally Healthy Packaged Food",
+            "Organic",
+            "Organic Beverages",
+            "Organic Packaged Food",
+            "Other"
+        ],
+        "__v": 0
+    },
+    {
+        "name": "Packaged Food",
+        "skills": [
+            "Edible Oils",
+            "Ready Meals",
+            "Sauces, Dressings and Condiments",
+            "Soup",
+            "Sweet Spreads",
+            "Baby Food",
+            "Dairy",
+            "Confectionary",
+            "Savoury Snacks",
+            "Ice Cream and Frozen Desserts",
+            "Sweet Biscuits, Snack Bars and Fruit Snacks",
+            "Baked Goods",
+            "Breakfast Cereals",
+            "Processes Fruit and Vegetables",
+            "Processed Meat and Seafood",
+            "Rice, Pasta and Noodles",
+            "Other"
+        ],
+        "__v": 0
+    },
+    {
+        "name": "Soft Drinks",
+        "skills": [
+            "Bottled Water",
+            "Carbonates",
+            "Concentrates",
+            "Juice",
+            "RTD Coffee",
+            "RTD Tea",
+            "Energy Drinks",
+            "Sports Drinks",
+            "Asian Speciality Drinks",
+            "Other"
+        ],
+        "__v": 0
+    },
+    {
+        "name": "Consumer Finance",
+        "skills": [
+            "Financial Cards and Payments",
+            "Transactions",
+            "Total Card Transactions",
+            "Card Payment Transactions",
+            "Charge Card Transactions",
+            "Credit Card Transactions",
+            "Debit Card Transactions",
+            "Pre-Paid Card Transactions",
+            "Store Card Transactions",
+            "Consumer Lending",
+            "Consumer Credit",
+            "Other"
+        ],
+        "__v": 0
+    },
+    {
+        "name": "Retailing",
+        "skills": [
+            "Store-based Retailing",
+            "Grocery Retailers",
+            "Modern Grocery Retailers",
+            "Convenience Stores",
+            "Discounters",
+            "Hypermarkets",
+            "Supermarkets",
+            "Traditional Grocery Retailers",
+            "Non-Grocery Specialists",
+            "Apparel and Footwear Specialist Retailers",
+            "Electronics and Appliance Specialist Retailers",
+            "Health and Beauty Specialist Retailers",
+            "Home and Garden Specialist Retailers",
+            "Leisure and Personal Goods Specialist Retailers",
+            "Mixed Retailers",
+            "Department Stores",
+            "Variety Stores",
+            "Warehouse Clubs",
+            "Non-Store Retailing",
+            "Direct Selling",
+            "Homeshopping",
+            "Vending",
+            "E-Commerce",
+            "Mobile E-Commerce",
+            "Other"
+        ],
+        "__v": 0
+    },
+    {
+        "name": "Ingredients",
+        "skills": [
+            "Abrasives/Inorganics",
+            "Acidulants",
+            "Antifoams",
+            "Antifungals",
+            "Antimicrobials",
+            "Antiperspirants",
+            "Bleach Precursors",
+            "Bleaching Agents",
+            "Botanicals",
+            "Carotenoids",
+            "Cocoa Liquor",
+            "Cocoa Powder",
+            "Colours",
+            "Conditioning Agents (Skin, Hair, Fabric)",
+            "Cultures",
+            "Emollients",
+            "Emulsifiers and Co-Emulsifiers",
+            "Enzyme stabilisers",
+            "Enzymes",
+            "Fats and Oils",
+            "Flavours",
+            "Flavour Enhancers",
+            "Flours",
+            "Fluorescers",
+            "Fragrances",
+            "Humectants",
+            "Insect Repellents",
+            "Insecticides",
+            "Lacquers",
+            "Milk",
+            "Minerals",
+            "pH Control/salts",
+            "Polysaccharides and Oligosaccharides",
+            "Phytoestrogens",
+            "Preservatives/Antioxidants",
+            "Propellants",
+            "Proteins",
+            "Raising Agents",
+            "Reducing Agents",
+            "Skin Benefit Agents",
+            "Skin Lighteners",
+            "Skin Tanning Agents",
+            "Solvents",
+            "Sunscreens",
+            "Surfactant Cleansers and Adjuvants",
+            "Sweeteners",
+            "Synthetic Polymers, Homopolymers and Copolymers",
+            "Thickeners/Structurants",
+            "Tooth Care",
+            "Vitamins and Derivatives",
+            "Water Softeners/Chelators",
+            "Miscellaneous Ingredients",
+            "Commodities",
+            "Other"
+        ],
+        "__v": 0
+    },
+    {
+        "name": "Packaging",
+        "skills": [
+            "Beverages Packaging",
+            "Alcoholic Drinks Packaging",
+            "Hot Drinks Packaging",
+            "Soft Drinks Packaging",
+            "Beauty and Personal Care Packaging",
+            "Packaging",
+            "Home Care Packaging",
+            "Food Packaging",
+            "Baby Food Packaging",
+            "Confectionery Packaging",
+            "Dairy Packaging",
+            "Processed Fruit and Vegetables Packaging",
+            "Processed Meat and Seafood Packaging",
+            "Ready Meals Packaging",
+            "Sauces, Dressings and Condiments Packaging",
+            "Sweet Spreads Packaging",
+            "Other"
+        ],
+        "__v": 0
+    },
+    {
+        "name": "Hot Drinks",
+        "skills": [
+            "Coffee",
+            "Tea",
+            "Other"
+        ],
+        "__v": 0
+    },
+    {
+        "name": "Pet Care",
+        "skills": [
+            "Pet Food",
+            "Cat Food",
+            "Dog Food",
+            "Other",
+            "Pet Products"
+        ],
+        "__v": 0
+    },
+    {
+        "name": "Tissue and Hygiene",
+        "skills": [
+            "Away-from-Home Tissue and Hygiene",
+            "Retail Tissue and Hygiene",
+            "Retail Hygiene",
+            "Retail Adult Incontinence",
+            "Nappies/Diapers/Pants",
+            "Sanitary Protection",
+            "Wipes",
+            "Retail Tissue",
+            "Other"
+        ],
+        "__v": 0
+    }
+]

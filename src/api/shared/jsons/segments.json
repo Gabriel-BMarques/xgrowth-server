@@ -1,0 +1,70 @@
+[
+    {
+        "name": "Consumer Products",
+        "subSegments": [
+            "Alcoholic Drinks",
+            "Apparel and Footwear",
+            "Beauty and Personal Care",
+            "Consumer Appliances",
+            "Consumer Eletronics",
+            "Consumer Health",
+            "Eyewear",
+            "Fresh Food",
+            "Health and Wellness",
+            "Home and Garden",
+            "Home Care",
+            "Hot Drinks",
+            "Luxury Goods",
+            "Packaged Food",
+            "Personal Accessories",
+            "Pet Care",
+            "Soft Drinks",
+            "Tissue and Hygiene",
+            "Tobacco",
+            "Toys and Games"
+        ],
+        "__v": 0
+    },
+    {
+        "name": "Services",
+        "subSegments": [
+            "Consumer Finance",
+            "Consumer Foodservice",
+            "Retailing",
+            "Travel",
+            "Logistics",
+            "HR",
+            "Application Services",
+            "Business Strategy",
+            "Data & Analytics",
+            "Infrastructure",
+            "Security",
+            "Technology Innovation",
+            "Technology Consulting",
+            "Artificial Intelligence",
+            "Change Management",
+            "Ecosystem Partners",
+            "Marketing",
+            "Supply Chain Management",
+            "Zero Based Budgeting (ZBB)",
+            "Automation",
+            "Cloud",
+            "Finance Consulting",
+            "Mergers & Acquisitions (M&A)",
+            "Sustainability",
+            "Business Process Outsourcing",
+            "Industry X",
+            "Operation Models",
+            "Research Center"
+        ],
+        "__v": 0
+    },
+    {
+        "name": "Supply",
+        "subSegments": [
+            "Ingredients",
+            "Packaging"
+        ],
+        "__v": 0
+    }
+]

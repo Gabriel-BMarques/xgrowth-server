@@ -1,0 +1,864 @@
+[
+    {
+        "targetValue": "Analyst",
+        "originValues": [
+            {
+                "value": "ABM El Caserio Spain",
+                "action": "substitute"
+            },
+            {
+                "value": "ABM Fattorie Osella",
+                "action": "substitute"
+            },
+            {
+                "value": "Account ejecutive",
+                "action": "substitute"
+            },
+            {
+                "value": "Account Executive",
+                "action": "substitute"
+            },
+            {
+                "value": "Analista",
+                "action": "substitute"
+            },
+            {
+                "value": "Assistant Brand Manager Tablets Bulgaria",
+                "action": "substitute"
+            },
+            {
+                "value": "Assistant Marketing Productivity Project",
+                "action": "substitute"
+            },
+            {
+                "value": "Business Development",
+                "action": "substitute"
+            },
+            {
+                "value": "Comercial",
+                "action": "substitute"
+            },
+            {
+                "value": "Commercial - Cereal Ingredients",
+                "action": "substitute"
+            },
+            {
+                "value": "Communications ",
+                "action": "substitute"
+            },
+            {
+                "value": "Consumer Marketing Expert Biscuits",
+                "action": "substitute"
+            },
+            {
+                "value": "cs",
+                "action": "substitute"
+            },
+            {
+                "value": "Customer Success",
+                "action": "substitute"
+            },
+            {
+                "value": "Developer, Packaging Development ",
+                "action": "substitute"
+            },
+            {
+                "value": "Developer, Product Development",
+                "action": "substitute"
+            },
+            {
+                "value": "Ejecutivo de cuentas",
+                "action": "substitute"
+            },
+            {
+                "value": "EXECUTIVA COMERCIAL",
+                "action": "substitute"
+            },
+            {
+                "value": "Junior Brand Manager Mikado",
+                "action": "substitute"
+            },
+            {
+                "value": "Junior Brand Mgr Cadbury, Daim, Tang WTR",
+                "action": "substitute"
+            },
+            {
+                "value": "Marketing Analyst",
+                "action": "substitute"
+            },
+            {
+                "value": "Marketing Grocery Trainee",
+                "action": "substitute"
+            },
+            {
+                "value": "Regional Procurement Mktg ",
+                "action": "substitute"
+            },
+            {
+                "value": "SBM Meals Portugal ",
+                "action": "substitute"
+            },
+            {
+                "value": "SBM Refreshment Spain",
+                "action": "substitute"
+            },
+            {
+                "value": "Sr. Consumer Insgt. Analyst Gum MEU",
+                "action": "substitute"
+            },
+            {
+                "value": "Vendas",
+                "action": "substitute"
+            },
+            {
+                "value": "Vendedor",
+                "action": "substitute"
+            }
+        ]
+    },
+    {
+        "targetValue": "Assistant",
+        "originValues": [
+            {
+                "value": "Assistant Brand Manager Belin",
+                "action": "substitute"
+            },
+            {
+                "value": "Assistant Brand Manager Belin",
+                "action": "substitute"
+            }
+        ]
+    },
+    {
+        "targetValue": "C-Level (CEO, CMO, CPO, etc)",
+        "originValues": [
+            {
+                "value": "CEO",
+                "action": "substitute"
+            },
+            {
+                "value": "CMO",
+                "action": "substitute"
+            },
+            {
+                "value": "President",
+                "action": "substitute"
+            },
+            {
+                "value": "Socio",
+                "action": "substitute"
+            }
+        ]
+    },
+    {
+        "targetValue": "Consultant",
+        "originValues": [
+            {
+                "value": "Principal Consultant",
+                "action": "substitute"
+            }
+        ]
+    },
+    {
+        "targetValue": "Coordinator",
+        "originValues": [
+            {
+                "value": "Consumer Care Coordinator",
+                "action": "substitute"
+            },
+            {
+                "value": "Head Comercial",
+                "action": "substitute"
+            },
+            {
+                "value": "Head of Baked Goods & Cereals",
+                "action": "substitute"
+            },
+            {
+                "value": "Head of food chemistry department",
+                "action": "substitute"
+            },
+            {
+                "value": "ISC HR Coordinator",
+                "action": "substitute"
+            },
+            {
+                "value": "Project Coordinator",
+                "action": "substitute"
+            },
+            {
+                "value": "coordenador",
+                "action": "substitute"
+            }
+        ]
+    },
+    {
+        "targetValue": "Director",
+        "originValues": [
+            {
+                "value": "Assoc Dir Commercial Fin Projects MEU",
+                "action": "substitute"
+            },
+            {
+                "value": "Assoc Dir Planning ",
+                "action": "substitute"
+            },
+            {
+                "value": "Assoc.Dir, ISC Confectionary Projects",
+                "action": "substitute"
+            },
+            {
+                "value": "Associate Dir Marketing Cadbury UK",
+                "action": "substitute"
+            },
+            {
+                "value": "Business Director",
+                "action": "substitute"
+            },
+            {
+                "value": "Category Director, Meals Western Europe",
+                "action": "substitute"
+            },
+            {
+                "value": "Dir Sourcing MEU Pkg ",
+                "action": "substitute"
+            },
+            {
+                "value": "Dir. Finance RGM,Cntrl Sales",
+                "action": "substitute"
+            },
+            {
+                "value": "Director Account",
+                "action": "substitute"
+            },
+            {
+                "value": "Director Asociado",
+                "action": "substitute"
+            },
+            {
+                "value": "Director operativo",
+                "action": "substitute"
+            },
+            {
+                "value": "Director Product Development",
+                "action": "substitute"
+            },
+            {
+                "value": "Director, Capability & Planning",
+                "action": "substitute"
+            },
+            {
+                "value": "Senior Director, Sales -- India",
+                "action": "substitute"
+            },
+            {
+                "value": "Supply Chain Director",
+                "action": "substitute"
+            }
+        ]
+    },
+    {
+        "targetValue": "Intern",
+        "originValues": [
+            {
+                "value": "Assistant Brand Manager Intern",
+                "action": "substitute"
+            }
+        ]
+    },
+    {
+        "targetValue": "Manager",
+        "originValues": [
+            {
+                "value": "Account Manager",
+                "action": "substitute"
+            },
+            {
+                "value": "Application Leader",
+                "action": "substitute"
+            },
+            {
+                "value": "BM Milka ",
+                "action": "substitute"
+            },
+            {
+                "value": "BM Philadelphia ",
+                "action": "substitute"
+            },
+            {
+                "value": "Brand Manager - Cadbury Kids",
+                "action": "substitute"
+            },
+            {
+                "value": "Brand Manager Bakery",
+                "action": "substitute"
+            },
+            {
+                "value": "Brand Manager Candy",
+                "action": "substitute"
+            },
+            {
+                "value": "Brand Manager European Export",
+                "action": "substitute"
+            },
+            {
+                "value": "Brand Manager Gum ",
+                "action": "substitute"
+            },
+            {
+                "value": "Brand Manager Philadelphia AT/CH",
+                "action": "substitute"
+            },
+            {
+                "value": "Brand Manager Seasonals",
+                "action": "substitute"
+            },
+            {
+                "value": "Business Development Manager",
+                "action": "substitute"
+            },
+            {
+                "value": "CI Manager Biscuit WE",
+                "action": "substitute"
+            },
+            {
+                "value": "Consumer Care Mgr WE, Global Trng Lead",
+                "action": "substitute"
+            },
+            {
+                "value": "Consumer Promotions Supervisor",
+                "action": "substitute"
+            },
+            {
+                "value": "Data Science Lead - Global Pack ",
+                "action": "substitute"
+            },
+            {
+                "value": "Focal Point",
+                "action": "substitute"
+            },
+            {
+                "value": "Gerente Comercial",
+                "action": "substitute"
+            },
+            {
+                "value": "Gerente de eventos",
+                "action": "substitute"
+            },
+            {
+                "value": "Gerente de operaciones ",
+                "action": "substitute"
+            },
+            {
+                "value": "GESTORA DE CONTAS LARGE ENTERPRISE",
+                "action": "substitute"
+            },
+            {
+                "value": "Global Brand Manager Cadbury",
+                "action": "substitute"
+            },
+            {
+                "value": "Global CAPEX Automation Proc. Manager",
+                "action": "substitute"
+            },
+            {
+                "value": "Global IBS Consumer Insights Lead",
+                "action": "substitute"
+            },
+            {
+                "value": "Global Product Application Development & Support Manager",
+                "action": "substitute"
+            },
+            {
+                "value": "Global Sourcing Manager",
+                "action": "substitute"
+            },
+            {
+                "value": "Group Leader",
+                "action": "substitute"
+            },
+            {
+                "value": "Group Leader Chocolate Product Develp",
+                "action": "substitute"
+            },
+            {
+                "value": "Group Leader MEU Tablets",
+                "action": "substitute"
+            },
+            {
+                "value": "Group Leader- Regulatory Affairs",
+                "action": "substitute"
+            },
+            {
+                "value": "Group Leader Savory",
+                "action": "substitute"
+            },
+            {
+                "value": "IBS Project Mgr",
+                "action": "substitute"
+            },
+            {
+                "value": "Innovation Manager",
+                "action": "substitute"
+            },
+            {
+                "value": "Key Account Manager",
+                "action": "substitute"
+            },
+            {
+                "value": "Key Account Manager Sales",
+                "action": "substitute"
+            },
+            {
+                "value": "Key Account Sales",
+                "action": "substitute"
+            },
+            {
+                "value": "Learning Design Lead",
+                "action": "substitute"
+            },
+            {
+                "value": "Log Ops Transport Projects Lead MEU",
+                "action": "substitute"
+            },
+            {
+                "value": "Manager BD Chocolate   G",
+                "action": "substitute"
+            },
+            {
+                "value": "Manager Sourcing Dairy",
+                "action": "substitute"
+            },
+            {
+                "value": "Manager Sourcing Design Ingredients EU",
+                "action": "substitute"
+            },
+            {
+                "value": "Manager Sourcing Ingredients Europe",
+                "action": "substitute"
+            },
+            {
+                "value": "Manager Sourcing Rigid Material EU",
+                "action": "substitute"
+            },
+            {
+                "value": "Manager Sourcing Warehousing MEU",
+                "action": "substitute"
+            },
+            {
+                "value": "Manager Sourcing, Cocoa Chocolate Europe",
+                "action": "substitute"
+            },
+            {
+                "value": "Manager Sourcing, G",
+                "action": "substitute"
+            },
+            {
+                "value": "Manager Sourcing, Ingredients Europe",
+                "action": "substitute"
+            },
+            {
+                "value": "Manager TSS",
+                "action": "substitute"
+            },
+            {
+                "value": "Marketing Manager",
+                "action": "substitute"
+            },
+            {
+                "value": "Marketing Manager Biscuits PL ",
+                "action": "substitute"
+            },
+            {
+                "value": "Marketing Manager Meals Iberia",
+                "action": "substitute"
+            },
+            {
+                "value": "MEU Biscuit Category ",
+                "action": "substitute"
+            },
+            {
+                "value": "Mgr Consumer Insights Italy/Benelux",
+                "action": "substitute"
+            },
+            {
+                "value": "Mgr Shopper Insights SE",
+                "action": "substitute"
+            },
+            {
+                "value": "Mgr Sourcing Eur. Log. E2E Proc. Excel.",
+                "action": "substitute"
+            },
+            {
+                "value": "On Sites Services Lead, Brazil",
+                "action": "substitute"
+            },
+            {
+                "value": "People Lead, Ireland",
+                "action": "substitute"
+            },
+            {
+                "value": "Procurement Lead NE ",
+                "action": "substitute"
+            },
+            {
+                "value": "Procurement Manager Sourcing Packaging P",
+                "action": "substitute"
+            },
+            {
+                "value": "Procurement Mgr Directs Confectionery CE",
+                "action": "substitute"
+            },
+            {
+                "value": "Procurement Seasonal Sourcing Manager",
+                "action": "substitute"
+            },
+            {
+                "value": "Project Manager",
+                "action": "substitute"
+            },
+            {
+                "value": "R&D Manager",
+                "action": "substitute"
+            },
+            {
+                "value": "Sales Manager",
+                "action": "substitute"
+            },
+            {
+                "value": "Sales manager ",
+                "action": "substitute"
+            },
+            {
+                "value": "Seasonal Brand Mng Cote dor and Tobleron",
+                "action": "substitute"
+            },
+            {
+                "value": "Section Manager",
+                "action": "substitute"
+            },
+            {
+                "value": "Sourcing Manager",
+                "action": "substitute"
+            },
+            {
+                "value": "Sourcing Manager Design Ingredients MEU",
+                "action": "substitute"
+            },
+            {
+                "value": "Sourcing Manager Sales ",
+                "action": "substitute"
+            },
+            {
+                "value": "SYC- Chocolate Consumer Insights Manager",
+                "action": "substitute"
+            },
+            {
+                "value": "Technical manager",
+                "action": "substitute"
+            },
+            {
+                "value": "Technical Service Manager GEA EMEA",
+                "action": "substitute"
+            },
+            {
+                "value": "manager",
+                "action": "substitute"
+            },
+            {
+                "value": "Focal point",
+                "action": "substitute"
+            },
+            {
+                "value": "Gerente",
+                "action": "substitute"
+            },
+            {
+                "value": "Gerente Administrativo",
+                "action": "substitute"
+            },
+            {
+                "value": "supervisor",
+                "action": "substitute"
+            },
+            {
+                "value": "Team Lead",
+                "action": "substitute"
+            }
+        ]
+    },
+    {
+        "targetValue": "Scientist",
+        "originValues": [
+            {
+                "value": "Associate Principal Scientist",
+                "action": "substitute"
+            },
+            {
+                "value": "Packaging Scientist II",
+                "action": "substitute"
+            },
+            {
+                "value": "Principal Scientist",
+                "action": "substitute"
+            },
+            {
+                "value": "RD Packaging Scientist I",
+                "action": "substitute"
+            },
+            {
+                "value": "Sci I",
+                "action": "substitute"
+            },
+            {
+                "value": "Scientist I",
+                "action": "substitute"
+            },
+            {
+                "value": "Scientist II",
+                "action": "substitute"
+            },
+            {
+                "value": "Sensory and Consumer Insights Researcher I",
+                "action": "substitute"
+            }
+        ]
+    },
+    {
+        "targetValue": "Specialist",
+        "originValues": [
+            {
+                "value": "Business Logistics Specialist",
+                "action": "substitute"
+            },
+            {
+                "value": "Confectionery Quality Specialist",
+                "action": "substitute"
+            },
+            {
+                "value": "Customer Service Specialist",
+                "action": "substitute"
+            },
+            {
+                "value": "Maintenance Specialist",
+                "action": "substitute"
+            },
+            {
+                "value": "Proc Sourcing Specialist Packaging Paper",
+                "action": "substitute"
+            },
+            {
+                "value": "Procurement Specialist Directs",
+                "action": "substitute"
+            },
+            {
+                "value": "Procurement Specialist Indirects",
+                "action": "substitute"
+            },
+            {
+                "value": "Procurement Specialist Indirects CE",
+                "action": "substitute"
+            },
+            {
+                "value": "Quality Specialist",
+                "action": "substitute"
+            },
+            {
+                "value": "Sourcing Specialist Dairy Europe",
+                "action": "substitute"
+            }
+        ]
+    },
+    {
+        "targetValue": "Sr. Engineer",
+        "originValues": [
+            {
+                "value": "Sr Engineer I CREW Implementation LA",
+                "action": "substitute"
+            },
+            {
+                "value": "Sr Engineer II Process Development",
+                "action": "substitute"
+            }
+        ]
+    },
+    {
+        "targetValue": "Sr. Manager",
+        "originValues": [
+            {
+                "value": "Senior Brand Manager",
+                "action": "substitute"
+            },
+            {
+                "value": "Senior Brand Manager G",
+                "action": "substitute"
+            },
+            {
+                "value": "Senior Brand Manager Gum ",
+                "action": "substitute"
+            },
+            {
+                "value": "Senior Brand Manager Toblerone Equity",
+                "action": "substitute"
+            },
+            {
+                "value": "Senior CI Manager Innovation ",
+                "action": "substitute"
+            },
+            {
+                "value": "Senior Group Leader",
+                "action": "substitute"
+            },
+            {
+                "value": "Senior Group Leader - Consumer Science",
+                "action": "substitute"
+            },
+            {
+                "value": "Senior Manager Sourcing G",
+                "action": "substitute"
+            },
+            {
+                "value": "Sr Group Leader MEU Candy",
+                "action": "substitute"
+            },
+            {
+                "value": "Sr Mgr, Adv Sourcing Initiatives Global",
+                "action": "substitute"
+            },
+            {
+                "value": "Sr Mgr, Global Cross Cat. Pack., CAPEX",
+                "action": "substitute"
+            }
+        ]
+    },
+    {
+        "targetValue": "Sr. Scientist",
+        "originValues": [
+            {
+                "value": "Senior Flavorist",
+                "action": "substitute"
+            },
+            {
+                "value": "Senior Flavourist",
+                "action": "substitute"
+            },
+            {
+                "value": "Senior SCI Researcher",
+                "action": "substitute"
+            },
+            {
+                "value": "Senior Scientiist I",
+                "action": "substitute"
+            },
+            {
+                "value": "Senior Scientist I",
+                "action": "substitute"
+            },
+            {
+                "value": "Senior Scientist II",
+                "action": "substitute"
+            },
+            {
+                "value": "Senior Seasoning Flavorist",
+                "action": "substitute"
+            }
+        ]
+    },
+    {
+        "targetValue": "Sr. Specialist",
+        "originValues": [
+            {
+                "value": "Senior Sourcing Specialist",
+                "action": "substitute"
+            },
+            {
+                "value": "Sr Sourcing Spec.Log.Net.",
+                "action": "substitute"
+            }
+        ]
+    },
+    {
+        "targetValue": "Sr. Technologist",
+        "originValues": [
+            {
+                "value": "LOA Senior Technician",
+                "action": "substitute"
+            },
+            {
+                "value": "Senior Packaging Design Technologist I",
+                "action": "substitute"
+            },
+            {
+                "value": "Senior Packaging Technologist I",
+                "action": "substitute"
+            },
+            {
+                "value": "Senior Technologist I",
+                "action": "substitute"
+            },
+            {
+                "value": "Senior Technologist I Biscuits",
+                "action": "substitute"
+            },
+            {
+                "value": "Technologist Senior II Chocobakery",
+                "action": "substitute"
+            }
+        ]
+    },
+    {
+        "targetValue": "Technologist",
+        "originValues": [
+            {
+                "value": "Assoc Principal Packaging Technologist",
+                "action": "substitute"
+            },
+            {
+                "value": "Assoc. Prncpl Technlgst",
+                "action": "substitute"
+            },
+            {
+                "value": "Associate Principal Technologist",
+                "action": "substitute"
+            },
+            {
+                "value": "Food Technologist",
+                "action": "substitute"
+            },
+            {
+                "value": "Packaging Technologist II",
+                "action": "substitute"
+            },
+            {
+                "value": "Technical Services",
+                "action": "substitute"
+            },
+            {
+                "value": "Technologist II",
+                "action": "substitute"
+            }
+        ]
+    },
+    {
+        "targetValue": "",
+        "originValues": [
+            {
+                "value": "Commercial",
+                "action": "move to"
+            },
+            {
+                "value": "Finance",
+                "action": "move to"
+
+            },
+            {
+                "value": "Marketing",
+                "action": "move to"
+            },
+            {
+                "value": "Procurement",
+                "action": "move to"
+            }
+        ]
+    }
+]
